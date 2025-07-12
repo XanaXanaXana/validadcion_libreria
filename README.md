@@ -6,7 +6,7 @@ Incluye además una **interfaz gráfica (JFrame)** para interactuar fácilmente 
 
 ---
 
-## 📦 ¿Qué hace la librería?
+## ¿Qué hace la librería?
 
 Contiene la clase `Tramites` que permite:
 
@@ -18,9 +18,9 @@ Contiene la clase `Tramites` que permite:
 
 ---
 
-## 🧠 Estructura del código
+## Estructura del código
 
-### 🔹 Clase principal: `Tramites`
+### Clase principal: `Tramites`
 
 #### Atributos (privados):
 
@@ -49,7 +49,7 @@ Contiene la clase `Tramites` que permite:
 
 ---
 
-## 🖼️ Interfaz gráfica (`Panel.java`)
+## Interfaz gráfica (`Panel.java`)
 
 Formulario hecho con NetBeans GUI Builder que permite ingresar datos y presionar botones para:
 
@@ -61,14 +61,14 @@ Formulario hecho con NetBeans GUI Builder que permite ingresar datos y presionar
 
 ---
 
-## 🧪 Clase `MainPrueba`
+## Clase `MainPrueba`
 
 Pequeña clase `main` que prueba los métodos con valores predefinidos.  
 Sirve para testear la librería rápidamente sin necesidad de usar la interfaz gráfica.
 
 ---
 
-## ⚙️ Crear e importar la librería `.jar`
+## Crear e importar la librería `.jar`
 
 1. Compila el proyecto en NetBeans.
 2. Haz clic en **"Clean and Build Project"** para generar el archivo `.jar` (lo encontrarás en la carpeta `/dist` del proyecto).
@@ -83,7 +83,7 @@ Sirve para testear la librería rápidamente sin necesidad de usar la interfaz g
 📺 [Ver video en YouTube](https://youtu.be/TFg6V6OD6AA?si=VknYe2SwnAiD5bc1)
 
 ---
-## 👩‍💻 Créditos
+## Créditos
 
 - 👩‍🎨 **Ingrid Arcadio Aparicio**  
 - 👩‍🎨 **Xana Amalinalli Pérez Jiménez**
