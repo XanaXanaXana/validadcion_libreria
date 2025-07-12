@@ -83,4 +83,9 @@ Sirve para testear la librería rápidamente sin necesidad de usar la interfaz g
 📺 [Ver video en YouTube](https://youtu.be/TFg6V6OD6AA?si=VknYe2SwnAiD5bc1)
 
 ---
+## 👩‍💻 Créditos
+
+- 👩‍🎨 **Ingrid Arcadio Aparicio**  
+- 👩‍🎨 **Xana Amalinalli Pérez Jiménez**
+
 
