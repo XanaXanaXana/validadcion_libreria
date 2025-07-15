@@ -78,7 +78,6 @@ Sirve para testear la librería rápidamente sin necesidad de usar la interfaz g
 
 ---
 ##Documentación javadoc
-file:///C:/Users/Manzana/OneDrive/Documentos/NetBeansProjects/Tramites/dist/javadoc/tramites/Tramites.html
 ---
 
 ## 🎥 Video de demostración
